@@ -1,0 +1,33 @@
+@import url(reset.css);
+
+.h1 {
+    color: blue;
+}
+
+.info {
+    color: blueviolet;
+}
+
+.container {
+    color: yellowgreen;
+}
+
+.list {
+    color: aqua;
+}
+
+.start {
+    color: greenyellow;
+}
+
+.year1 {
+    color: brown;
+}
+
+.year2 {
+    color: plum;
+}
+
+.history {
+    color: forestgreen;
+}
